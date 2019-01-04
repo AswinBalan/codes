@@ -1,4 +1,5 @@
 #include<stdio.h>
+//C program to print (* - alpha) triangle
 int main(int argc, char const *argv[])
 {
     int outer,inner,rows,flag =0,letter=65;
